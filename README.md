@@ -33,4 +33,5 @@ It also taught me how important UI/UX design is in real-world projects. Even wit
 The E-Learning Platform UI is a complete, visually appealing frontend project that shows my ability to build real-world user interfaces. It is flexible and can be connected to a backend or learning management system (LMS) in the future. It represents my design thinking and frontend skills learned during my internship.
 
 OUTPUT:
+https://github.com/user-attachments/assets/6e0ebbb1-e928-4288-bf53-a05c4a95b276
 
